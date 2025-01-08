@@ -1,0 +1,2 @@
+1. Find a way to split the visual effect and sound fx of blood boil impact but keep the attack animation of Heroic Strike
+2. Fix Overhead Swing maths on description
