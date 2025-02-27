@@ -1,0 +1,1 @@
+{"version":3,"sources":["../datascripts.ts"],"sourcesContent":["import { std } from \"wow/wotlk\";\n\nconsole.log(\"Hello from dkdhruneglobalstrings data script!\");"],"names":["console","log"],"mappings":";;;;AAEAA,OAAO,CAACC,GAAG,CAAC,CAA+C"}
